@@ -1,0 +1,36 @@
+Comment,Designator,Footprint,LCSC Part #
+10uf 0402,"C1, C2, C17",C_0402_1005Metric,no_part_number
+0.1uf 0402,C3,C_0402_1005Metric,no_part_number
+100nf 0402,"C4, C5, C6, C7, C8, C9, C10, C11, C12, C15",C_0402_1005Metric,no_part_number
+2.2uF 0402,"C13, C16",C_0402_1005Metric,no_part_number
+1uf 0402,C14,C_0402_1005Metric,no_part_number
+22pf 0402,"C18, C19",C_0402_1005Metric,no_part_number
+,,,
+1N4148W,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32",D_SOD-123,C2892570
+1N4002W,D33,D_SOD-123,C169542
+0805L050WR,F1,Fuse_0805_2012Metric,C207022
+FerriteBead 0402,FB1,R_0402_1005Metric,no_part_number
+W25Q16JVUXIQ,FLASH1,R_0402_1005Metric,C2843335
+GP23 LED_0402,GP23_LED1,LED_0402_1005Metric,no_part_number
+1K 0402,GPIO24_RESISTOR1,R_0402_1005Metric,no_part_number
+LED_0402,GPIO25_LED1,LED_0402_1005Metric,no_part_number
+470 0402,GPIO25_RESISTOR1,R_0402_1005Metric,no_part_number
+Button,J3,SW_Push_SPST_NO_Alps_SKRK,no_part_number
+NetTie_2,NT1,NetTie-2_SMD_Pad0.5mm,no_part_number
+SI2301B, Q1,SOT-23,no_part_number
+5.1K 0402,"R1, R3",R_0402_1005Metric,no_part_number
+5.6K 0402,R2,R_0402_1005Metric,no_part_number
+100K 0402,R4,R_0402_1005Metric,no_part_number
+220 0402,R5,R_0402_1005Metric,no_part_number
+10K 0402,"R6, R9",R_0402_1005Metric,no_part_number
+200 0603,R7,R_0402_1005Metric,no_part_number
+1 0402,R8,R_0402_1005Metric,no_part_number
+27r 0402 resistor,"R10, R11",R_0402_1005Metric,no_part_number
+1K 0402,"R12, R13",R_0402_1005Metric,no_part_number
+TSA343G00-250J2,RSW1,SW_Push_SPST_NO_Alps_SKRK,C354946
+SW_PUSH,SW1-SW32,CherryMX_Hotswap-3d-smd,C5156480
+TestPoint,"TP1, TP2, TP3",CustomTestPoint,no_part_number
+SOT-23-5 5.5V 3.3V 500mA,U2,SOT-23-5,C404027
+RP2040,U3,RP2040-QFN-56, C2040
+TYPE-C-31-M-12,USB1,HRO-TYPE-C-31-M-12,C165948
+3225_4P 12MHz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C295522
